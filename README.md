@@ -1,5 +1,5 @@
 # DBSCAN-Algorithm
-Exemplo do algoritmo de clusterização DBSCAN
+Exemplo do algoritmo de clusterização DBSCAN // DBSCAN clustering algorithm example
 
 Basta colocar o seu arquivo .CSV no "Your file here" e alterar o x = "X" e o y = "Y" para o nome do eixo que esta do arquivo respectivamente.
 
